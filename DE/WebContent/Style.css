@@ -1,0 +1,143 @@
+@charset "UTF-8";
+
+body {
+  text-align: center;
+  background-image: url("img/Backround2.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: repeat; /* Do not repeat the image no-repeat */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+ul{
+	color: white ;
+	font-family: verdana;
+	font-size: 16px;
+	text-align: left;
+}
+
+p {
+  color:white;
+  font-family: verdana;
+  font-size: 20px;
+  
+}
+
+.cards{
+	border: 10px green;
+	text-align: center;
+	color:white ;
+	font-family: verdana;
+	font-size: 15px;
+	border-style: outset;
+	height: 50px;
+	padding: 15px;
+	width: 100%;
+	border-spacing: (distance);
+}
+
+.td1{
+	border: 3px solid black;
+	padding: 10px;
+	border-collapse: collapse;
+	border-style: ridge;
+	font-size: 15px;
+}
+
+a{
+	color:lightblue;
+	font-family: verdana;
+}
+
+
+h1{
+	color:lightblue;
+	font-family: verdana;
+}
+
+.button1{
+  background-color: #4CAF50; /* Green */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  margin-right: auto;
+  font-family: verdana;
+  
+}
+
+.button2{
+  background-color: #4CAF50; /* Green */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 50%;
+  margin-right: auto;
+  font-family: verdana;
+  
+}
+
+.button3{
+  background-color: #4CAF50; /* Green */
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 50%;
+  margin-right: auto;
+  font-family: verdana;
+  
+}
+
+
+
+
+
+.a1{
+	color:white;
+}
+
+form {
+	color:white;
+	border:white;
+	border-style: outset;
+	width: 30%;
+    margin-left : 35%;
+  	text-align: center;
+	font-family: verdana;
+
+}
+select{
+	width: 40%;
+}
+.form2{
+	color:black;
+	border:black;
+	width: 40%;
+	text-align: center;
+	font-family: verdana;
+}
+
+.img2{
+	width: 50px;
+	height: 50px;
+}
+
+.option1{
+	color:black;
+	border:black;
+	width: 200%;
+
+	font-family: verdana;
+}
+
+.f1{
+	color:green;
+	text-align: center;
+	font-family: verdana;
+	margin-left : 0%;
+	border:green;
+}
