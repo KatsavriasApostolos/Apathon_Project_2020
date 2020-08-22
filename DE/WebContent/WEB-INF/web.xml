@@ -32,56 +32,6 @@
 <url-pattern>/card2</url-pattern>
 </servlet-mapping>
 
-<servlet>
-<servlet-name>Cardsearch3</servlet-name>
-<servlet-class>apis.Cardsearch3</servlet-class>
-</servlet>
-
-<servlet-mapping>
-<servlet-name>Cardsearch3</servlet-name>
-<url-pattern>/card3</url-pattern>
-</servlet-mapping>
-
-<servlet>
-<servlet-name>Cardsearch4</servlet-name>
-<servlet-class>apis.Cardsearch4</servlet-class>
-</servlet>
-
-<servlet-mapping>
-<servlet-name>Cardsearch4</servlet-name>
-<url-pattern>/card4</url-pattern>
-</servlet-mapping>
-
-<servlet>
-<servlet-name>Cardsearch5</servlet-name>
-<servlet-class>apis.Cardsearch5</servlet-class>
-</servlet>
-
-<servlet-mapping>
-<servlet-name>Cardsearch5</servlet-name>
-<url-pattern>/card5</url-pattern>
-</servlet-mapping>
-
-<servlet>
-<servlet-name>Cardsearch6</servlet-name>
-<servlet-class>apis.Cardsearch6</servlet-class>
-</servlet>
-
-<servlet-mapping>
-<servlet-name>Cardsearch6</servlet-name>
-<url-pattern>/card6</url-pattern>
-</servlet-mapping>
-
-
-<servlet>
-<servlet-name>Cardsearch7</servlet-name>
-<servlet-class>apis.Cardsearch7</servlet-class>
-</servlet>
-
-<servlet-mapping>
-<servlet-name>Cardsearch7</servlet-name>
-<url-pattern>/card7</url-pattern>
-</servlet-mapping>
 
 
 

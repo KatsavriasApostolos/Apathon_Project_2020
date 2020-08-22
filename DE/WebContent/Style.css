@@ -136,8 +136,8 @@ select{
 
 .f1{
 	color:green;
-	text-align: center;
+	text-align: left;
 	font-family: verdana;
-	margin-left : 0%;
+	margin-left: 0%;
 	border:green;
 }
